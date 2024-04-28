@@ -23,3 +23,9 @@ To test the connectivity of profile to mysql dbt-adapter, use following command.
 dbt debug 
 ```
 
+## Running the models 
+Following command is used to run all defined models.
+```
+dbt run
+``` 
+
